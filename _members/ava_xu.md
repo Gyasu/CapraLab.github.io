@@ -1,6 +1,6 @@
 ---
 name: Ava Xu
-timeline_name: Ava Xu #Fill this out if you'd like your name to appear differently on the Timeline.
+timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2022-06-14]
 enddate: []
 image: /static/img/members/Xu.jpg #365 x 365 pixels, 72 dpi
