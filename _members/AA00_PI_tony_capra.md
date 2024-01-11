@@ -5,7 +5,7 @@ startdate: []
 enddate: []
 image: /static/img/member_photos/tony.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/member_photos/tony_alt.jpg #365 x 365 pixels, 72 dpi
-position: PI
+position: Principal Investigator
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
 email: tony[at]capralab[dot]org #Preferred public email address
