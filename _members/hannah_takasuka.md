@@ -5,7 +5,7 @@ startdate: [2023-04-27]
 enddate: []
 image: /static/img/member_photos/takasuka.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/member_photos/takasuka_alt.jpg #365 x 365 pixels, 72 dpi
-position: Graduate student
+position: Graduate Student
 #subsequent:  update once you become an alumnus
 pronouns: she/her/ella #personal pronouns
 email: hannah.takasuka@ucsf.edu #Preferred public email address
