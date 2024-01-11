@@ -11,7 +11,7 @@ pronouns: she/her/hers #personal pronouns
 email: grace.ramey (at) ucsf.edu #Preferred public email address
 scholar: 
 website:
-UCSF: #UCSF Profile ID - Employees only
+#UCSF: #UCSF Profile ID - Employees only
 twitter:
 linkedin: 
 github: gramey02
