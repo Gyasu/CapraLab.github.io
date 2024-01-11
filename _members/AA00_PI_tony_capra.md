@@ -11,7 +11,7 @@ pronouns: he/him/his #personal pronouns
 email: tony[at]capralab[dot]org #Preferred public email address
 scholar: Yn_tO3IAAAAJ
 website: 
-UCSF: XXXXXXXX #UCSF Profile ID - Employees only
+#UCSF: XXXXXXXX #UCSF Profile ID - Employees only
 twitter: capra_lab
 linkedin: 
 github: CapraLab
