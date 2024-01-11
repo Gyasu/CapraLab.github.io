@@ -10,7 +10,7 @@ group: home
 Evolutionary and Computational Genomics at UCSF
 {: .welcomefont}
 
-![Capra lab logo](static/img/logos/capralab_logo.png){:style="max-width: 100%; height: auto;"}
+![Capra lab logo](static/img/logos/capralab_logo.png){:style="max-width: 80%; height: auto;"}
 
 We use the tools of computer science and statistics to address problems in genetics, evolution, and biomedicine. For a summary of our major research foci, see Research.
 
