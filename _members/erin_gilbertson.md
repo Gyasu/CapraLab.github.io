@@ -16,5 +16,5 @@ twitter: ErinNGilbertson
 linkedin: 
 github: egilbertson-ucsf
 orcid: 0000-0002-2426-9966
-description: ""
+description: "Erin is a PhD Candidate in the Biological and Medical Informatics Program. She graduated from the University of Minnesota with a B.S. in Genetics, Cell Biology and Development with a minor in Computer Science. Her research interests revolve around using machine learning methods to understand the evolution of gene regulation. Outside of the lab she enjoys playing guitar, cooking and spending time outdoors."
 ---
