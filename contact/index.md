@@ -25,7 +25,7 @@ group: contact
   San Francisco, CA 94143<br>
   email: tony [at] capralab [dot] org <br>
   
-</br>
+
 
 ## Join the Capra Lab
 Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
