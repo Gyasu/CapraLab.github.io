@@ -11,7 +11,7 @@ pronouns: she/her/hers #personal pronouns
 email: erin.gilbertson (at) ucsf.edu #Preferred public email address
 scholar: 
 website:
-UCSF: #UCSF Profile ID - Employees only
+#UCSF: #UCSF Profile ID - Employees only
 twitter: ErinNGilbertson
 linkedin: 
 github: egilbertson-ucsf
