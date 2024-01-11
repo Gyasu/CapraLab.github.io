@@ -24,7 +24,10 @@ group: contact
   [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu/)
   San Francisco, CA 94143<br>
   email: tony [at] capralab [dot] org <br>
-  
+
+</div>
+
+</div>
 
 
 # Join the Capra Lab
