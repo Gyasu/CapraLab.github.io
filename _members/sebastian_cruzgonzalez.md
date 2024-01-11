@@ -4,7 +4,7 @@ startdate: [2022-03-30]
 enddate: []
 image: /static/img/member_photos/SCG_Patagucci_Profile_Pic.jpeg 
 altimage: /static/img/member_photos/SCG_Patagucci_Profile_Pic_FADED.jpeg
-position: Graduate student
+position: Graduate Student
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
 email: sebastian.cruzgonzalez[at]ucsf.edu  #Preferred public email address
