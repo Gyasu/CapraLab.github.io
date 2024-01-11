@@ -8,15 +8,9 @@ group: contact
 
 <div class="row">
 
-<div class="col-md-4">
 
-  <h4>Lab Area </h4>
-  [Bakar Computational Health Sciences Institute](https://bakarinstitute.ucsf.edu/) and the [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu/) at the [University of California, San Francisco](http://www.ucsf.edu/).
-  San Francisco, CA 94143<br>
 
-</div>
-
-<div class="col-md-4">
+<div class="col-md-6">
 
   <h4>John Anthony (Tony) Capra, Ph.D.</h4>
   Professor<br>
@@ -27,6 +21,13 @@ group: contact
 
 </div>
 
+<div class="col-md-6">
+
+  <h4>Lab Area </h4>
+  [Bakar Computational Health Sciences Institute](https://bakarinstitute.ucsf.edu/) and the [Department of Epidemiology and Biostatistics](https://epibiostat.ucsf.edu/) at the [University of California, San Francisco](http://www.ucsf.edu/).
+  San Francisco, CA 94143<br>
+
+</div>
 </div>
 
 
