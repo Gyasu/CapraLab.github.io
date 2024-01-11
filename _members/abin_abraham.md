@@ -5,7 +5,7 @@ startdate: [2017-07-01]
 enddate: []
 image: /static/img/member_photos/abin_abraham.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/member_photos/abin_abraham_alt.png #365 x 365 pixels, 72 dpi
-position: former graduate student
+position: graduate student
 subsequent:  Resident at Childrens' Hospital of Philadelphia
 pronouns: he/him/his #personal pronouns
 email: abin.abraham@vanderbilt.edu
