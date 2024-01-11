@@ -2,7 +2,7 @@
 name: Ava Xu
 timeline_name: Ava Xu #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2022-06-14]
-enddate: [YYYY-MM-DD]
+enddate: []
 image: /static/img/members/Xu.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/Xu_pb.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student
