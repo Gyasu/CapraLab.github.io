@@ -1,7 +1,7 @@
 ---
 name: Yaen Chen
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
-startdate: [2023-06-2023]
+startdate: [2023-06-01]
 enddate: []
 image: /static/img/member_photos/yaen.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/member_photos/yaen_alt.jpg #365 x 365 pixels, 72 dpi
