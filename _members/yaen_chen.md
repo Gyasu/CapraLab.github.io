@@ -3,8 +3,8 @@ name: Yaen Chen
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2023-06-01]
 enddate: []
-image: /static/img/member_photos/yaen.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/member_photos/yaen_alt.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/member_photos/yaen.jpeg #365 x 365 pixels, 72 dpi
+altimage: /static/img/member_photos/yaen_alt.jpeg #365 x 365 pixels, 72 dpi
 position: Graduate Student
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
