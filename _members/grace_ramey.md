@@ -4,7 +4,7 @@ timeline_name: #Fill this out if you'd like your name to appear differently on t
 startdate: [2022-06-20]
 enddate: []
 image: /static/img/member_photos/ramey.jpg #365 x 365 pixels, 72 dpi
-altimage: #/static/img/member_photos/gilbertson_pb.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/member_photos/ramey_alt.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
