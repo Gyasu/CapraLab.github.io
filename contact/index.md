@@ -58,4 +58,4 @@ Inquiries about Postdoctoral positions should be emailed directly to [Tony](/con
 
 ## Other Visitors
 
-In the past, our lab has enjoyed having foreign exchange students, interns, sabbatical visitors from academia and industry, and post-bac research specialists in the lab.  We are open to other arrangements as well. As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available.
+In the past, our lab has enjoyed having foreign exchange students, interns, sabbatical visitors from academia and industry, and post-bac research specialists in the lab.  We are open to other arrangements as well. 
