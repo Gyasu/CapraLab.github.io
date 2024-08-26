@@ -1,0 +1,11 @@
+---
+title: "Tracing the Evolution of Human Gene Regulation and Its Association with Shifts in Environment"
+authors: "**Colbran LL**, Johnson MR, Mathieson I, Capra JA."
+journal: "Genome Biol Evol"
+pub_date: "2021-10-31"
+image: "/static/img/pub/cpub_images/2021-10-31_Colbran_gbe.png"
+pmid: "34718543"
+pmcid: "PMC8576593"
+pdf: "/static/pdfs/pub_pdfs/2021-10-31_Colbran_gbe.pdf"
+url: 
+---
