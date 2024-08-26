@@ -3,9 +3,9 @@ title: "Ancient human miRNAs are more likely to have broad functions and disease
 authors: "**Patel VD**, Capra JA."
 journal: "BMC Genomics"
 pub_date: "2017-09-02"
-image: "/static/img/pub/cpub_images/2017-09-02_Patel_bmc-gen.png"
+image: "/static/img/pub/2017-09-02_Patel_bmc-gen.png"
 pmid: "28859623"
 pmcid: "PMC5579935"
-pdf: "/static/pdfs/pub_pdfs/2017-09-02_Patel_bmc-gen.pdf"
+pdf: "/static/pdfs/2017-09-02_Patel_bmc-gen.pdf"
 url: 
 ---

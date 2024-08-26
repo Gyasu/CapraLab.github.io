@@ -3,9 +3,9 @@ title: "Neanderthal introgression reintroduced functional ancestral alleles lost
 authors: "**Rinker DC**, Simonti CN, McArthur E, Shaw D, Hodges E, Capra JA."
 journal: "Nat Ecol Evol"
 pub_date: "2020-07-29"
-image: "/static/img/pub/cpub_images/2020-07-29_Rinker_nat-ee.png"
+image: "/static/img/pub/2020-07-29_Rinker_nat-ee.png"
 pmid: "32719451"
 pmcid: "PMC7529911"
-pdf: "/static/pdfs/pub_pdfs/2020-07-29_Rinker_nat-ee.pdf"
+pdf: "/static/pdfs/2020-07-29_Rinker_nat-ee.pdf"
 url: 
 ---

@@ -3,9 +3,9 @@ title: "The essential Schizosaccharomyces pombe Pfh1 DNA helicase promotes fork 
 authors: "**Sabouri N**, Capra JA, Zakian VA."
 journal: "BMC Biol"
 pub_date: "2014-12-05"
-image: "/static/img/pub/cpub_images/2014-12-05_Sabouri_BMCBiol.png"
+image: "/static/img/pub/2014-12-05_Sabouri_BMCBiol.png"
 pmid: "25471935"
 pmcid: "PMC4275981"
-pdf: "/static/pdfs/pub_pdfs/2014-12-05_Sabouri_BMCBiol.pdf"
+pdf: "/static/pdfs/2014-12-05_Sabouri_BMCBiol.pdf"
 url: 
 ---

@@ -3,9 +3,9 @@ title: "High-throughput functional mapping of variants in an arrhythmia gene, KC
 authors: "**Muhammad A**, Calandranis ME, Li B, Yang T, Blackwell DJ, Harvey ML, Smith JE, Chew AE, Capra JA, Matreyek KA, Fowler DM, Roden DM, Glazer AM."
 journal: "bioRxiv"
 pub_date: "2023-05-10"
-image: "/static/img/pub/cpub_images/2023-05-10_Muhammad_bioRxiv.png"
+image: "/static/img/pub/2023-05-10_Muhammad_bioRxiv.png"
 pmid: "37162834"
 pmcid: "PMC10168370"
-pdf: "/static/pdfs/pub_pdfs/2023-05-10_Muhammad_bioRxiv.pdf"
+pdf: "/static/pdfs/2023-05-10_Muhammad_bioRxiv.pdf"
 url: 
 ---

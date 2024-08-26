@@ -3,9 +3,9 @@ title: "Human gene regulatory evolution is driven by the divergence of regulator
 authors: "**Hansen T**, Fong S, Capra JA, Hodges E."
 journal: "bioRxiv"
 pub_date: "2023-02-24"
-image: "/static/img/pub/cpub_images/2023-02-24_Hansen_bioRxiv.png"
+image: "/static/img/pub/2023-02-24_Hansen_bioRxiv.png"
 pmid: "36824965"
 pmcid: "PMC9949080"
-pdf: "/static/pdfs/pub_pdfs/2023-02-24_Hansen_bioRxiv.pdf"
+pdf: "/static/pdfs/2023-02-24_Hansen_bioRxiv.pdf"
 url: 
 ---

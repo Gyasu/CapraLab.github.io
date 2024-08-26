@@ -3,9 +3,9 @@ title: "Human gene regulatory evolution is driven by the divergence of regulator
 authors: "**Hansen TJ**, Fong SL, Day JK, Capra JA, Hodges E."
 journal: "Cell Genom"
 pub_date: "2024-04-11"
-image: "/static/img/pub/cpub_images/2024-04-11_Hansen_cellgenom.png"
+image: "/static/img/pub/2024-04-11_Hansen_cellgenom.png"
 pmid: "38604126"
 pmcid: "PMC11019363"
-pdf: "/static/pdfs/pub_pdfs/2024-04-11_Hansen_cellgenom.pdf"
+pdf: "/static/pdfs/2024-04-11_Hansen_cellgenom.pdf"
 url: 
 ---

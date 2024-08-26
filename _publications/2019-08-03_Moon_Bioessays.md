@@ -3,9 +3,9 @@ title: "Immune Regulation in Eutherian Pregnancy: Live Birth Coevolved with Nove
 authors: "**Moon JM**, Capra JA, Abbot P, Rokas A."
 journal: "Bioessays"
 pub_date: "2019-08-03"
-image: "/static/img/pub/cpub_images/2019-08-03_Moon_Bioessays.png"
+image: "/static/img/pub/2019-08-03_Moon_Bioessays.png"
 pmid: "31373044"
 pmcid: ""
-pdf: "/static/pdfs/pub_pdfs/2019-08-03_Moon_Bioessays.pdf"
+pdf: "/static/pdfs/2019-08-03_Moon_Bioessays.pdf"
 url: 
 ---

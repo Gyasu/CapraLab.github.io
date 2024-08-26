@@ -3,9 +3,9 @@ title: "Linking rare and common disease vocabularies by mapping between the huma
 authors: "**McArthur E**, Bastarache L, Capra JA."
 journal: "JAMIA Open"
 pub_date: "2023-03-06"
-image: "/static/img/pub/cpub_images/2023-03-06_McArthur_jamia-open.png"
+image: "/static/img/pub/2023-03-06_McArthur_jamia-open.png"
 pmid: "36875690"
 pmcid: "PMC9976874"
-pdf: "/static/pdfs/pub_pdfs/2023-03-06_McArthur_jamia-open.pdf"
+pdf: "/static/pdfs/2023-03-06_McArthur_jamia-open.pdf"
 url: 
 ---

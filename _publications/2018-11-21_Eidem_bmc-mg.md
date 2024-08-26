@@ -3,9 +3,9 @@ title: "integRATE: a desirability-based data integration framework for the prior
 authors: "**Eidem HR**, Steenwyk JL, Wisecaver JH, Capra JA, Abbot P, Rokas A."
 journal: "BMC Med Genomics"
 pub_date: "2018-11-21"
-image: "/static/img/pub/cpub_images/2018-11-21_Eidem_bmc-mg.png"
+image: "/static/img/pub/2018-11-21_Eidem_bmc-mg.png"
 pmid: "30453955"
 pmcid: "PMC6245874"
-pdf: "/static/pdfs/pub_pdfs/2018-11-21_Eidem_bmc-mg.pdf"
+pdf: "/static/pdfs/2018-11-21_Eidem_bmc-mg.pdf"
 url: 
 ---

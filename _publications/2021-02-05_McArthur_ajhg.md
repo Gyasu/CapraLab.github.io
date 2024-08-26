@@ -3,9 +3,9 @@ title: "Topologically associating domain boundaries that are stable across diver
 authors: "**McArthur E**, Capra JA."
 journal: "Am J Hum Genet"
 pub_date: "2021-02-05"
-image: "/static/img/pub/cpub_images/2021-02-05_McArthur_ajhg.png"
+image: "/static/img/pub/2021-02-05_McArthur_ajhg.png"
 pmid: "33545030"
 pmcid: "PMC7895846"
-pdf: "/static/pdfs/pub_pdfs/2021-02-05_McArthur_ajhg.pdf"
+pdf: "/static/pdfs/2021-02-05_McArthur_ajhg.pdf"
 url: 
 ---

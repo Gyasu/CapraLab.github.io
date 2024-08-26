@@ -3,9 +3,9 @@ title: "Protein structure aids predicting functional perturbation of missense va
 authors: "**Kroncke BM**, Mendenhall J, Smith DK, Sanders CR, Capra JA, George AL, Blume JD, Meiler J, Roden DM."
 journal: "Comput Struct Biotechnol J"
 pub_date: "2019-03-05"
-image: "/static/img/pub/cpub_images/2019-03-05_Kroncke_csbj.png"
+image: "/static/img/pub/2019-03-05_Kroncke_csbj.png"
 pmid: "30828412"
 pmcid: "PMC6383132"
-pdf: "/static/pdfs/pub_pdfs/2019-03-05_Kroncke_csbj.pdf"
+pdf: "/static/pdfs/2019-03-05_Kroncke_csbj.pdf"
 url: 
 ---

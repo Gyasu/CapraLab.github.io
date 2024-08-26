@@ -3,9 +3,9 @@ title: "Integrating Computational Approaches to Predict the Effect of Genetic Va
 authors: "**Grunin M**, Palmer E, de Jong S, Jin B, Rinker D, Moth C, Capra JA, Haines JL, Bush WS, den Hollander AI."
 journal: "Adv Exp Med Biol"
 pub_date: "2023-07-13"
-image: "/static/img/pub/cpub_images/2023-07-13_Grunin_aemb.png"
+image: "/static/img/pub/2023-07-13_Grunin_aemb.png"
 pmid: "37440029"
 pmcid: ""
-pdf: "/static/pdfs/pub_pdfs/2023-07-13_Grunin_aemb.pdf"
+pdf: "/static/pdfs/2023-07-13_Grunin_aemb.pdf"
 url: 
 ---
