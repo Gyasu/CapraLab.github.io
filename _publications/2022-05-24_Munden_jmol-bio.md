@@ -1,6 +1,6 @@
 ---
 title: "R-loop Mapping and Characterization During Drosophila Embryogenesis Reveals Developmental Plasticity in R-loop Signatures"
-authors: "**Munden A**, Benton ML, Capra JA, Nordman JT."
+authors: "Munden A, **Benton ML**, **Capra JA**, Nordman JT."
 journal: "J Mol Biol"
 pub_date: "2022-05-24"
 image: "/static/img/pub/2022-05-24_Munden_jmol-bio.png"

@@ -1,6 +1,6 @@
 ---
 title: "Which animals are at risk? Predicting species susceptibility to Covid-19"
-authors: "**Alexander MR**, Schoeder CT, Brown JA, Smart CD, Moth C, Wikswo JP, Capra JA, Meiler J, Chen W, Madhur MS."
+authors: "Alexander MR, Schoeder CT, Brown JA, Smart CD, Moth C, Wikswo JP, **Capra JA**, Meiler J, Chen W, Madhur MS."
 journal: "bioRxiv"
 pub_date: "2020-07-18"
 image: "/static/img/pub/2020-07-18_Alexander_bioRxiv.png"

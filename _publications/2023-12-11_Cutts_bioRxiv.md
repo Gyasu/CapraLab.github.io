@@ -1,6 +1,6 @@
 ---
 title: "Cell-Specific Transposable Element Gene Expression Analysis Identifies Associations with Systemic Lupus Erythematosus Phenotypes"
-authors: "**Cutts Z**, Patterson S, Maliskova L, Taylor KE, Ye C, Dall'Era M, Yazdany J, Criswell L, Fragiadakis GK, Langelier C, Capra JA, Sirota M, Lanata CM."
+authors: "Cutts Z, Patterson S, Maliskova L, Taylor KE, Ye C, Dall'Era M, Yazdany J, Criswell L, Fragiadakis GK, Langelier C, **Capra JA**, Sirota M, Lanata CM."
 journal: "bioRxiv"
 pub_date: "2023-12-11"
 image: "/static/img/pub/2023-12-11_Cutts_bioRxiv.png"

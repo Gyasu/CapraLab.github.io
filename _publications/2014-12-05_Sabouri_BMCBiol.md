@@ -1,6 +1,6 @@
 ---
 title: "The essential Schizosaccharomyces pombe Pfh1 DNA helicase promotes fork movement past G-quadruplex motifs to prevent DNA damage"
-authors: "**Sabouri N**, Capra JA, Zakian VA."
+authors: "Sabouri N, **Capra JA**, Zakian VA."
 journal: "BMC Biol"
 pub_date: "2014-12-05"
 image: "/static/img/pub/2014-12-05_Sabouri_BMCBiol.png"

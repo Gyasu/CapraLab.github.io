@@ -1,6 +1,6 @@
 ---
 title: "Extrapolating histone marks across developmental stages, tissues, and species: an enhancer prediction case study"
-authors: "**Capra JA.**"
+authors: "Capra JA."
 journal: "BMC Genomics"
 pub_date: "2015-03-14"
 image: "/static/img/pub/2015-03-14_Capra_bmc-gen.png"

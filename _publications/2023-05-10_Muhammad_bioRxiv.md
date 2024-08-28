@@ -1,6 +1,6 @@
 ---
 title: "High-throughput functional mapping of variants in an arrhythmia gene, KCNE1, reveals novel biology"
-authors: "**Muhammad A**, Calandranis ME, Li B, Yang T, Blackwell DJ, Harvey ML, Smith JE, Chew AE, Capra JA, Matreyek KA, Fowler DM, Roden DM, Glazer AM."
+authors: "Muhammad A, Calandranis ME, **Li B**, Yang T, Blackwell DJ, Harvey ML, Smith JE, Chew AE, **Capra JA**, Matreyek KA, Fowler DM, Roden DM, Glazer AM."
 journal: "bioRxiv"
 pub_date: "2023-05-10"
 image: "/static/img/pub/2023-05-10_Muhammad_bioRxiv.png"
