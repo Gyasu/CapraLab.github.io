@@ -1,6 +1,6 @@
 ---
 title: "Evolution of lysine acetylation in the RNA polymerase II C-terminal domain"
-authors: "**Simonti CN**, Pollard KS, Schröder S, He D, Bruneau BG, Ott M, Capra JA."
+authors: "**Simonti CN**, Pollard KS, Schröder S, He D, Bruneau BG, Ott M, **Capra JA.**"
 journal: "BMC Evol Biol"
 pub_date: "2015-04-19"
 image: "/static/img/pub/2015-04-19_Simonti_bmc-eb.png"

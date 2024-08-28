@@ -1,6 +1,6 @@
 ---
 title: "Learning and interpreting the gene regulatory grammar in a deep learning framework"
-authors: "**Chen L**, Capra JA."
+authors: "**Chen L**, **Capra JA.**"
 journal: "PLoS Comput Biol"
 pub_date: "2020-11-02"
 image: "/static/img/pub/2020-11-02_Chen_plos-cb.png"
