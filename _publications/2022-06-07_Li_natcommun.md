@@ -1,6 +1,6 @@
 ---
 title: "The 3D mutational constraint on amino acid sites in the human proteome"
-authors: "**Li B**, Roden DM, **Capra JA.**"
+authors: "**Li B&#42;**, Roden DM, **Capra JA.&#42;**"
 journal: "Nat Commun"
 pub_date: "2022-06-07"
 image: "/static/img/pub/2022-06-07_Li_natcommun.png"

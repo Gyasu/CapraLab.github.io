@@ -1,6 +1,6 @@
 ---
 title: "Resurrecting the alternative splicing landscape of archaic hominins using machine learning"
-authors: "**Brand CM**, **Colbran LL**, **Capra JA**"
+authors: "**Brand CM**, **Colbran LL**, **Capra JA&#42;**"
 journal: "Nature Ecology & Evolution"
 image: "/static/img/pub/2023-05-04_brand_nat-ee.png"
 biorxiv_version: "2022.08.02.502533v3"
