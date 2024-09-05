@@ -1,6 +1,6 @@
 ---
 title: "Comparing chromatin contact maps at scale: methods and insights"
-authors: "Gunsalus LM&#94;, **McArthur E&#94;**, Gjoni K, Kuang S, Pittman M, **Capra JA&#42;**, Pollard KS.&#42;"
+authors: "Gunsalus LM, **McArthur E**, Gjoni K, Kuang S, Pittman M, **Capra JA**, Pollard KS."
 journal: "Res Sq"
 pub_date: "2023-06-09"
 image: "/static/img/pub/2023-06-09_Gunsalus_res-sq.png"

@@ -1,6 +1,6 @@
 ---
 title: "Nucleoporins facilitate ORC loading onto chromatin"
-authors: "Richards L, Lord CL, **Benton ML**, **Capra JA**, Nordman JT.&#42;"
+authors: "Richards L, Lord CL, **Benton ML**, **Capra JA**, Nordman JT."
 journal: "Cell Rep"
 pub_date: "2022-11-09"
 image: "/static/img/pub/2022-11-09_Richards_cellrep.png"

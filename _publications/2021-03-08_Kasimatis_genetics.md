@@ -1,6 +1,6 @@
 ---
 title: "Evaluating human autosomal loci for sexually antagonistic viability selection in two large biobanks"
-authors: "Kasimatis KR&#94;, **Abraham A&#94;**, Ralph PL, Kern AD, **Capra JA&#42;**, Phillips PC.&#42;"
+authors: "Kasimatis KR, **Abraham A**, Ralph PL, Kern AD, **Capra JA**, Phillips PC."
 journal: "Genetics"
 pub_date: "2021-03-08"
 image: "/static/img/pub/2021-03-08_Kasimatis_genetics.png"

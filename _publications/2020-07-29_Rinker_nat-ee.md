@@ -1,6 +1,6 @@
 ---
 title: "Neanderthal introgression reintroduced functional ancestral alleles lost in Eurasian populations"
-authors: "**Rinker DC**, **Simonti CN**, **McArthur E**, Shaw D, Hodges E, **Capra JA.&#42;**"
+authors: "**Rinker DC**, **Simonti CN**, **McArthur E**, Shaw D, Hodges E, **Capra JA.**"
 journal: "Nat Ecol Evol"
 pub_date: "2020-07-29"
 image: "/static/img/pub/2020-07-29_Rinker_nat-ee.png"

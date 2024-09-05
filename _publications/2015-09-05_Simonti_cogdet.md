@@ -1,6 +1,6 @@
 ---
 title: "The evolution of the human genome"
-authors: "**Simonti CN**, **Capra JA.&#42;**"
+authors: "**Simonti CN**, **Capra JA.**"
 journal: "Curr Opin Genet Dev"
 pub_date: "2015-09-05"
 image: "/static/img/pub/2015-09-05_Simonti_cogdet.png"

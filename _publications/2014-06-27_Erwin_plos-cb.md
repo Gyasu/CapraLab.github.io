@@ -1,6 +1,6 @@
 ---
 title: "Integrating diverse datasets improves developmental enhancer prediction"
-authors: "Erwin GD, Oksenberg N, Truty RM, Kostka D, Murphy KK, Ahituv N, Pollard KS&#42;, **Capra JA.&#42;**"
+authors: "Erwin GD, Oksenberg N, Truty RM, Kostka D, Murphy KK, Ahituv N, Pollard KS, **Capra JA.**"
 journal: "PLoS Comput Biol"
 pub_date: "2014-06-27"
 image: "/static/img/pub/2014-06-27_Erwin_plos-cb.png"

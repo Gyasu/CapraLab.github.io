@@ -1,6 +1,6 @@
 ---
 title: "Genome-wide enhancer annotations differ significantly in genomic distribution, evolution, and function"
-authors: "**Benton ML**, Talipineni SC, Kostka D&#42;, **Capra JA.&#42;**"
+authors: "**Benton ML**, Talipineni SC, Kostka D, **Capra JA.**"
 journal: "BMC Genomics"
 pub_date: "2019-06-22"
 image: "/static/img/pub/2019-06-22_Benton_bmc-gen.png"

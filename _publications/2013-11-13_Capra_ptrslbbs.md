@@ -1,6 +1,6 @@
 ---
 title: "Many human accelerated regions are developmental enhancers"
-authors: "**Capra JA&#42;**, Erwin GD, McKinsey G, Rubenstein JL, Pollard KS.&#42;"
+authors: "**Capra JA**, Erwin GD, McKinsey G, Rubenstein JL, Pollard KS."
 journal: "Philos Trans R Soc Lond B Biol Sci"
 pub_date: "2013-11-13"
 image: "/static/img/pub/2013-11-13_Capra_ptrslbbs.png"

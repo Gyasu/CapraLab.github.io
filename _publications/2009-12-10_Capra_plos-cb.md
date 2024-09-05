@@ -1,6 +1,6 @@
 ---
 title: "Predicting protein ligand binding sites by combining evolutionary sequence conservation and 3D structure"
-authors: "**Capra JA**, Laskowski RA, Thornton JM, Singh M&#42;, Funkhouser TA.&#42;"
+authors: "**Capra JA**, Laskowski RA, Thornton JM, Singh M, Funkhouser TA."
 journal: "PLoS Comput Biol"
 pub_date: "2009-12-10"
 image: "/static/img/pub/2009-12-10_Capra_plos-cb.png"
