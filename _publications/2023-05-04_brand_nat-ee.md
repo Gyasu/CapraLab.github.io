@@ -1,6 +1,6 @@
 ---
 title: "Resurrecting the alternative splicing landscape of archaic hominins using machine learning"
-authors: "**Colin M. Brand**, Laura C. Colbran, **John A. Capra**"
+authors: "**Brand CM**, **Colbran LL**, **Capra JA**"
 journal: "Nature Ecology & Evolution"
 image: "/static/img/pub/2023-05-04_brand_nat-ee.png"
 biorxiv_version: "2022.08.02.502533v3"
