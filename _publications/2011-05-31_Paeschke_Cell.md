@@ -1,6 +1,6 @@
 ---
 title: "DNA replication through G-quadruplex motifs is promoted by the Saccharomyces cerevisiae Pif1 DNA helicase"
-authors: "Paeschke K, **Capra JA**, Zakian VA."
+authors: "Paeschke K, **Capra JA**, Zakian VA.&#42;"
 journal: "Cell"
 pub_date: "2011-05-31"
 image: "/static/img/pub/2011-05-31_Paeschke_Cell.png"

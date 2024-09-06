@@ -1,6 +1,6 @@
 ---
 title: "Heterozygosity Ratio, a Robust Global Genomic Measure of Autozygosity and Its Association with Height and Disease Risk"
-authors: "Samuels DC, Wang J, Ye F, He J, Levinson RT, Sheng Q, Zhao S, **Capra JA**, Shyr Y, Zheng W, Guo Y."
+authors: "Samuels DC&#94;, Wang J&#94;, Ye F, He J, Levinson RT, Sheng Q, Zhao S, **Capra JA**, Shyr Y, Zheng W, Guo Y.&#42;"
 journal: "Genetics"
 pub_date: "2016-09-03"
 image: "/static/img/pub/2016-09-03_Samuels_genetics.png"

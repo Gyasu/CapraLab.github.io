@@ -1,6 +1,6 @@
 ---
 title: "An association test of the spatial distribution of rare missense variants within protein structures identifies Alzheimer's disease-related patterns"
-authors: "Jin B, **Capra JA**, Benchek P, Wheeler N, Naj AC, Hamilton-Nelson KL, Farrell JJ, Leung YY, Kunkle B, Vadarajan B, Schellenberg GD, Mayeux R, Wang LS, Farrer LA, Pericak-Vance MA, Martin ER, Haines JL, Crawford DC, Bush WS."
+authors: "Jin B, **Capra JA**, Benchek P, Wheeler N, Naj AC, Hamilton-Nelson KL, Farrell JJ, Leung YY, Kunkle B, Vadarajan B, Schellenberg GD, Mayeux R, Wang LS, Farrer LA, Pericak-Vance MA, Martin ER, Haines JL, Crawford DC, Bush WS.&#42;"
 journal: "Genome Res"
 pub_date: "2022-02-25"
 image: "/static/img/pub/2022-02-25_Jin_gen-res.png"

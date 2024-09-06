@@ -1,6 +1,6 @@
 ---
 title: "Disease-specific prioritization of non-coding GWAS variants based on chromatin accessibility"
-authors: "Liang Q, **Abraham A**, **Capra JA**, Kostka D."
+authors: "Liang Q, **Abraham A**, **Capra JA**, Kostka D.&#42;"
 journal: "HGG Adv"
 pub_date: "2024-05-22"
 image: "/static/img/pub/2024-05-22_Liang_hgg-adv.png"
