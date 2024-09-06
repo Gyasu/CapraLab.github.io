@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 #Style guide for Fraser Lab website.
 #Written by Robbie Diaz - 2020.
 #Updated 07/19/21
