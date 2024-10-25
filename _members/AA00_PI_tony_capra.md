@@ -16,5 +16,5 @@ twitter: capra_lab
 linkedin: 
 github: CapraLab
 orcid: 0000-0001-9743-1795
-description: "Tony Capra is an Associate Professor of Epidemiology and Biostatistics in the Bakar Computational Health Sciences Institute at the University of California, San Francisco.  He received his PhD in computer science from Princeton University and completed a postdoc in the Gladstone Institutes at UCSF. Prior to coming to UCSF, Tony spent 7 years at Vanderbilt University in Dept. of Biological Sciences and the Vanderbilt Genetics Institute (VGI)."
+description: "Tony Capra is a Professor and Head of the Division of Bioinformatics in the Department of Epidemiology and Biostatistics and the Bakar Computational Health Sciences Institute at the University of California, San Francisco. He is also Co-Director of the Biological and Medical Informatics PhD program. He received his PhD in computer science from Princeton University and completed a postdoc in the Gladstone Institutes at UCSF. Prior to coming to UCSF, Tony spent 7 years at Vanderbilt University in Dept. of Biological Sciences and the Vanderbilt Genetics Institute (VGI)."
 ---
