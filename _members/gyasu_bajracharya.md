@@ -3,12 +3,12 @@ name: Gyasu Bajracharya
 timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2024-06-14]
 enddate: []
-image: /static/img/members/LastName.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/member_photos/gyasu_bajracharya.png #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/member_photos/gyasu_bajracharya_alt.png #365 x 365 pixels, 72 dpi
 position: Graduate Student
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns
-email:  gyasu.bajracharya@ucsf.edu #Preferred public email address
+email:  gyasu.bajracharya (at) ucsf.edu #Preferred public email address
 scholar:  #Google Scholar User ID
 website: gyasu.github.io
 # UCSF: XXXXXXXX #UCSF Profile ID - Employees only
