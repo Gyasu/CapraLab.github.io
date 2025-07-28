@@ -10,7 +10,7 @@ position: Graduate Student
 pronouns: he/him/his #personal pronouns
 email:  gyasu.bajracharya (at) ucsf.edu #Preferred public email address
 scholar:  #Google Scholar User ID
-website: gyasu.github.io
+website: https://gyasu.github.io
 # UCSF: XXXXXXXX #UCSF Profile ID - Employees only
 # twitter: username
 linkedin: gyasu
