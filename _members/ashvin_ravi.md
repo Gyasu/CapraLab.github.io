@@ -2,9 +2,9 @@
 name: Ashvin Ravi
 #timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2024-07-01]
-#enddate: [2028-08-31]
-image: /static/img/members/member_photos/ashvin_ravi.png #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/member_photos/ashvin_ravi_alt.png #365 x 365 pixels, 72 dpi
+enddate: []
+image: /static/img/member_photos/ashvin_ravi.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/member_photos/ashvin_ravi_alt.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student
 #subsequent:  update once you become an alumnus
 pronouns: he/him/his #personal pronouns

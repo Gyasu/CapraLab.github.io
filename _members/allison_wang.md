@@ -1,10 +1,9 @@
 ---
 name: Allison Wang
-#timeline_name: #Fill this out if you'd like your name to appear differently on the Timeline.
 startdate: [2024-06-16]
-#enddate: [2028-08-31]
-image: /static/img/members/member_photos/allison_wang.png #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/member_photos/allison_wang_alt.png #365 x 365 pixels, 72 dpi
+enddate: []
+image: /static/img/member_photos/allison_wang.png #365 x 365 pixels, 72 dpi
+altimage: /static/img/member_photos/allison_wang_alt.JPG #365 x 365 pixels, 72 dpi
 position: Graduate Student
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
